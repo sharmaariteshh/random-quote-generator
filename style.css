@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(76, 86, 90);
+}
+
+h1{
+    margin: 20px 0px;
+}
+
+.container{
+    background-color: rgb(35, 33, 33);
+    width: 30%;
+    height: 350px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    height: 45px;
+    width: 120px;
+    margin: 90px 190px;
+    background-color: grey;
+
+}
+
+p{
+    margin: 0 auto;
+    font-weight: 600;
+    color: whitesmoke;
+    margin-right: 15px;
+    font-size: 18px;
+}
